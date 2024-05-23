@@ -89,5 +89,3 @@ Include sample results of emotion detection showcasing different emotions. Add i
 Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes. For major changes, open an issue first to discuss what you would like to change.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
