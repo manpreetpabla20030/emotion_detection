@@ -31,8 +31,8 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/emotion-detection-yolov3.git
-cd emotion-detection-yolov3
+git clone https://github.com/yourusername/emotion-detection
+cd emotion-detection
 Install the required packages:
 
 bash
